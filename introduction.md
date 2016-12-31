@@ -4,3 +4,4 @@ This is me.
 * Git
 * JavaScript
 * Ruby
+* Killing history using git rebase
